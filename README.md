@@ -20,3 +20,7 @@ Reward는 크게 Task Reward, Imitation Reward로 이루어져 있는데, Task R
 
 ### Results
 1억 Steps를 학습한 결과
+![TrainingResult](https://user-images.githubusercontent.com/30585314/174280118-4bac29e7-8dd2-4f1e-96d9-d5e0f617f9fa.gif)
+
+### Put in Other Project
+![PutInGame](https://user-images.githubusercontent.com/30585314/174280745-bff065fd-f426-40df-8be2-cbfb074ff61c.png)
